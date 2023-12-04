@@ -130,10 +130,10 @@ body {
 	clear: none;
 	float: none;
 	margin-left: auto;
-	background-color: #00ACC1;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px
+	background-color: #D1F2EB; /*This is light blue I think on the main page behind the pictures and below this should change the big background to dark teal/blue */
+	-moz-box-shadow: rgba(20, 143, 119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px;
+	-webkit-box-shadow: rgba(20, 143,119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px;
+	box-shadow: rgba(20, 143,119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px
 }
 footer {
 	font-size: 1.2em;
