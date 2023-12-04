@@ -263,9 +263,9 @@ body {
 	clear: none;
 	float: none;
 	background-color: #E8F5E9 ;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
+	-moz-box-shadow: rgba(20, 143, 119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px;
+	-webkit-box-shadow: rgba(20, 143, 119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px;
+	box-shadow: rgba(20, 143, 119, 0.9) 20px 0px 25px,  rgba(20, 143, 119, 0.9) -20px 0px 25px;
 }
 
 
